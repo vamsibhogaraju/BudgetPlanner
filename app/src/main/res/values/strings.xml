@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BudgetPlanner</string>
+    <string name="analytics_format">%1$s: $%2$.2f (%3$.2f%% spent)</string>
+    <string name="analytics_remaining_budget">Remaining Budget: $%1$.2f</string>
+    <string-array name="category_array">
+        <item>Food</item>
+        <item>Rent</item>
+        <item>Utilities</item>
+        <item>Entertainment</item>
+        <item>Others</item>
+    </string-array>
+</resources>
